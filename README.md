@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Betül Solmaz
- 🔭 I’m currently working on Data Science 
-
+🔭 I’m currently working on Data Science 
+🌱 I’m currently learning data engineering and data analysis
 <!--
 **BetulSolmaz/BetulSolmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
