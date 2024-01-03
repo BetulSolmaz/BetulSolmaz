@@ -1,5 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ftr%2Ffoto%25C4%259Fraflar%2Fdata&psig=AOvVaw0lDfNqNKuSjHgaNl38wL43&ust=1704372264071000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDL1difwYMDFQAAAAAdAAAAABAR
-### Hi there 👋
+### Hi there
 ### I am Betül Solmaz
 🔭 I’m currently working on Data Science 
 
