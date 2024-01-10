@@ -2,7 +2,9 @@
 ### I am Betül Solmaz
 🔭 I’m currently working on Data Science 
 
-🌱 I’m currently learning data engineering and data analysis
+🌱 I’m currently learning data engineering and data analysis, ML and DL
+
+📫 How to reach me: btl.cylk85@gmail.com
 <!--
 **BetulSolmaz/BetulSolmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
