@@ -1,7 +1,7 @@
 ![image](https://github.com/BetulSolmaz/BetulSolmaz/assets/148537845/d96822b6-98a7-4397-a4b9-f1730a302f4b)
 
 
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 ### I am Betül Solmaz
 🔭 I’m currently working on Data Science 
 
