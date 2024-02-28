@@ -1,5 +1,5 @@
 ![image](https://github.com/BetulSolmaz/BetulSolmaz/assets/148537845/d96822b6-98a7-4397-a4b9-f1730a302f4b)
-<a href="https://BetulSolmaz.github.io/BetulSolmaz/"><img src="https://github.com/oserdaro/oserdaro/assets/142231355/580d3413-2d7b-47a2-aa2b-8a1225ea3370" alt="" title="Click to see my profile webpage"></a>
+
 
 ## Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 ### I am Betül Solmaz
